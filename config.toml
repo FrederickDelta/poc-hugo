@@ -2,6 +2,8 @@ baseURL = ""
 languageCode = "en-us"
 title = "PoC - Hugo"
 theme = "after-dark"
+relativeURLs = true
+uglyURLs = true
 
 [params]
   author = "Frederick D"
