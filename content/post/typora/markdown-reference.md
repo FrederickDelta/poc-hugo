@@ -2,6 +2,7 @@
 title: "Typora Markdown Reference"
 date: 2017-02-01
 tags: [Typora, Markdown]
+toc: true
 ---
 
 ## Overview
@@ -9,10 +10,6 @@ tags: [Typora, Markdown]
 **Markdown** is created by [Daring Fireball](http://daringfireball.net/), the original guideline is [here](http://daringfireball.net/projects/markdown/syntax). Its syntax, however, varies between different parsers or editors. **Typora** is using [GitHub Flavored Markdown][GFM]. 
 
 Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.
-
-*Outline*
-
-[TOC]
 
 ## Block Elements
 

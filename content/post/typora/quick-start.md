@@ -2,6 +2,7 @@
 title: "Typora Quick Start"
 date: 2017-01-01
 tags: [Typora, Markdown]
+toc: true
 ---
 
 Thank you for choosing **Typora**. This document will help you to start Typora.
