@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "PoC - Hugo"
 theme = "after-dark"
 relativeURLs = true
-uglyURLs = true
+[uglyURLs]
+  post = true
 
 [params]
   author = "Frederick D"
