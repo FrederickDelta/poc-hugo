@@ -18,7 +18,7 @@ relativeURLs = true
   name = "Posts"
   weight = 2
   identifier = "post"
-  url = "/post/"
+  url = "/post.html"
 [[menu.main]]
   name = "About"
   weight = 10
