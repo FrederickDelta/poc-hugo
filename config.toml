@@ -7,7 +7,7 @@ relativeURLs = true
   post = true
 
 [params]
-  author = "Frederick D"
+  author = "Frederick Delta"
 
 [[menu.main]]
   name = "Home"
